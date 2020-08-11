@@ -1,0 +1,1 @@
+void Rinput(char* command, char username[15]);

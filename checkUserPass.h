@@ -1,0 +1,1 @@
+int checkUserPass(users* head, char* username, char *password);

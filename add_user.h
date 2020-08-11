@@ -1,0 +1,1 @@
+int add_user(struct userinfo*head, char* command);

@@ -1,0 +1,1 @@
+void write(users* head);

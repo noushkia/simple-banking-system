@@ -1,0 +1,1 @@
+void logininput(char* command, char username[15], char password[15]);

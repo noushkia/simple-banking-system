@@ -1,0 +1,1 @@
+void viewA(struct userinfo* head, char* command);

@@ -1,0 +1,1 @@
+void AUinput(char* command, char username[15], char password[15], char phoneNumber[15]);

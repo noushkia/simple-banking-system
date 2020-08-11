@@ -1,0 +1,1 @@
+int checkDuplicate(users* head, char* username, char *phoneNumber);

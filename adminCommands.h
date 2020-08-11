@@ -1,0 +1,1 @@
+int adminCommands(struct userinfo* head);

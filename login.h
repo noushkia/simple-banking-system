@@ -1,0 +1,1 @@
+int login(int* aou, struct userinfo* head, struct userinfo** user);

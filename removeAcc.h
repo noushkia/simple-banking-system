@@ -1,0 +1,1 @@
+void removeAcc(struct userinfo* head, char* command);

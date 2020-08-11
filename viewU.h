@@ -1,0 +1,1 @@
+void viewU(struct userinfo* user);

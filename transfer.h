@@ -1,0 +1,1 @@
+int transfer(struct userinfo* head, struct userinfo* user, char* command);

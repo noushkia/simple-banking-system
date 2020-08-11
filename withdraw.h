@@ -1,0 +1,1 @@
+int withdraw(struct userinfo* head, char* command);

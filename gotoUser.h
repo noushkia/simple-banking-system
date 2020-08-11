@@ -1,0 +1,1 @@
+int gotoUser(struct userinfo* head, struct userinfo** user, char* username);

@@ -1,0 +1,1 @@
+void Dinput(char* command, char username[15], double* amount);
